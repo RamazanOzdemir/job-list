@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Job Priority tests except snapshot test 1`] = `
+<div
+  className="MuiBox-root css-1xo7tt7"
+  variant="error"
+/>
+`;
+
+exports[`Job Priority tests expect snapshot test 1`] = `
+<div
+  className="MuiBox-root css-1xo7tt7"
+  variant="error"
+/>
+`;
